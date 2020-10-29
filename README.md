@@ -5,7 +5,8 @@ Under this project I have plotted the line chart for NPS-score of the company
 
 #Requirements
 
-1.In order to plot the graph, the app needs three-json files containing the nps score on the day-basis,month basis and year basis
+1.In order to plot the graph, the app needs three-json files containing the nps score on the day-basis, month basis and year basis
+
 
 2.The project needs following Dependencies
 
