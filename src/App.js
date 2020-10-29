@@ -18,7 +18,7 @@ export default function App() {
           id: "tab1"
         }}
       >
-        <Tabs.Tab id="tab1" title="Tab 1">
+       <Tabs.Tab id="tab1" title="Tab 1">
           <div style={{ padding: 10 }}>
             <h1> Daily NPS Score </h1>
             <div style={{ height: 500 }}>

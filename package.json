@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "main": "src/index.js",
+  "main": "src/ind.js",
   "dependencies": {
     "@feuer/react-tabs": "0.1.8",
     "@nivo/line": "0.50.0",
