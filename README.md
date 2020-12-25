@@ -1,4 +1,4 @@
-Task Round of Correlations.AI -
+React APP details
 
 Under this project I have plotted the line chart for NPS-score of the company
 
